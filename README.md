@@ -9,9 +9,16 @@ npm start
 ```
 
 ## contribution using git 
+
 #### contributer details 
 ```
 git config --global user.email "MY_NAME@example.com"
 git config --global user.name "Your Name"
 ```
-#### contributer
+#### contribute
+
+```
+$ git add .
+$ git commit -m "msg here"
+$ git push
+```
