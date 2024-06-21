@@ -1,6 +1,6 @@
-# web app
+# Web app
 
-## download and run the project 
+## Download and run the project 
 ```
 git clone https://github.com/ABHINAV-321/Web_app/
 cd Web_app/
@@ -8,17 +8,22 @@ npm install
 npm start
 ```
 
-## contribution using git 
+## Contribution using git 
 
-#### contributer details 
+#### Contributer details 
 ```
 git config --global user.email "MY_NAME@example.com"
 git config --global user.name "Your Name"
 ```
-#### contribute
+#### Contribute
 
 ```
 $ git add .
 $ git commit -m "msg here"
 $ git push
+```
+
+#### To get latest update from github 
+```
+git pull
 ```
