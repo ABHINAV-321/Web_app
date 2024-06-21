@@ -25,10 +25,10 @@ git config --global user.name "Your Name"
 ```
 $ git add .
 $ git commit -m "msg here"
-$ git push
+$ git push orgin master
 ```
 
 #### To get latest update from github 
 ```
-git pull
+git pull orgin master
 ```
