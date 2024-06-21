@@ -9,7 +9,7 @@ cd Web_app/
 npm install
 npm start
 ```
->XLICON-V3-MD is based on :
+
 >- To view your project click here :point_right: [Webapp](http://localhost:3000/)
  
 
